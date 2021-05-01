@@ -25,6 +25,10 @@ On macOS, you can install H3 using `brew`:
 ```
 brew install h3
 ```
+On FreeBSD, you can install H3 using `pkg`:
+```
+pkg install h3
+```
 Otherwise, to build H3 from source, please see the following instructions.
 
 ### Building from source
